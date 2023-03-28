@@ -1,6 +1,6 @@
 # WINDSCRIBE VPN
  
- simple script to install and setup windscribe-cli
+ install and setup windscribe-cli
 ## Getting Started
 
 
