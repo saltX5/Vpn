@@ -36,5 +36,5 @@ windscribe login
 ```
 
 
-
- **[connect me](https://t.me/keagtorb79)**
+ 
+if you have questions **[ask me](https://t.me/keagtorb79)**
