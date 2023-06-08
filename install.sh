@@ -1,1 +1,2 @@
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7 
+sudo sh -c 'echo "deb https://repo.windscribe.com/ubuntu bionic main" > /etc/apt/sources.list.d/windscribe-repo.list'
+
