@@ -1,0 +1,1 @@
+echo "deb [arch=amd64] https://protonmail.com/download/protonmail-bridge/deb/ stable main" | sudo tee /etc/apt/sources.list.d/protonmail-bridge.list > /dev/null && curl -fsSL https://protonmail.com/download/protonmail-bridge/deb/protonmail-archive-keyring.asc | sudo tee /usr/share/keyrings/protonmail.asc > /dev/null
